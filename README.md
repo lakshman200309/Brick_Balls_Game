@@ -36,7 +36,10 @@ Brick Balls Game/ │ ├── index.html # Main game HTML ├── script.js 
 
 1. Download or clone this repository:
    ```bash
-   git clone [https://github.com/yourusername/brick-balls-game.git](https://github.com/lakshman200309/Brick_Balls_Game/tree/main)
-   
+   ## 🛠️ Getting Started
+   git clone https://github.com/lakshman200309/Brick_Balls_Game.git
+   cd Brick_Balls_Game
+
+# Open index.html in browser
 2. Open the folder and run index.html in a web browser.
 3. No server or build tools needed — it's all client-side!
